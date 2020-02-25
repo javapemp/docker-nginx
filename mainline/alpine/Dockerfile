@@ -2,7 +2,7 @@ FROM alpine:latest
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
-ENV NGINX_VERSION 1.17.5
+ENV NGINX_VERSION 1.17.8
 
 ENV HEADERS_MORE=0.33
 ENV SOURCE_DIR=/tmp/src
